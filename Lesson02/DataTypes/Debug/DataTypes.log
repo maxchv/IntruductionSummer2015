@@ -1,0 +1,25 @@
+﻿Сборка начата 27.07.2015 1:25:05.
+     1>Проект "C:\Users\Maxim\Desktop\IntroductionSummer2015\Lesson02\DataTypes\DataTypes.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\maxim\desktop\introductionsummer2015\lesson02\datatypes\main.cpp(15): warning C4101: uch: неиспользованная локальная переменная
+     1>c:\users\maxim\desktop\introductionsummer2015\lesson02\datatypes\main.cpp(31): warning C4101: f: неиспользованная локальная переменная
+     1>c:\users\maxim\desktop\introductionsummer2015\lesson02\datatypes\main.cpp(14): warning C4101: sch: неиспользованная локальная переменная
+     1>c:\users\maxim\desktop\introductionsummer2015\lesson02\datatypes\main.cpp(21): warning C4101: ui: неиспользованная локальная переменная
+     1>c:\users\maxim\desktop\introductionsummer2015\lesson02\datatypes\main.cpp(24): warning C4101: ul: неиспользованная локальная переменная
+     1>c:\users\maxim\desktop\introductionsummer2015\lesson02\datatypes\main.cpp(26): warning C4101: sll: неиспользованная локальная переменная
+     1>c:\users\maxim\desktop\introductionsummer2015\lesson02\datatypes\main.cpp(20): warning C4101: si: неиспользованная локальная переменная
+     1>c:\users\maxim\desktop\introductionsummer2015\lesson02\datatypes\main.cpp(33): warning C4101: d: неиспользованная локальная переменная
+     1>c:\users\maxim\desktop\introductionsummer2015\lesson02\datatypes\main.cpp(18): warning C4101: us: неиспользованная локальная переменная
+     1>c:\users\maxim\desktop\introductionsummer2015\lesson02\datatypes\main.cpp(27): warning C4101: ull: неиспользованная локальная переменная
+     1>c:\users\maxim\desktop\introductionsummer2015\lesson02\datatypes\main.cpp(23): warning C4101: sl: неиспользованная локальная переменная
+     1>c:\users\maxim\desktop\introductionsummer2015\lesson02\datatypes\main.cpp(17): warning C4101: ss: неиспользованная локальная переменная
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Maxim\Desktop\IntroductionSummer2015\Lesson02\Debug\DataTypes.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Maxim\Desktop\IntroductionSummer2015\Lesson02\Debug\DataTypes.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Maxim\Desktop\IntroductionSummer2015\Lesson02\Debug\DataTypes.lib" /MACHINE:X86 Debug\main.obj
+         DataTypes.vcxproj -> C:\Users\Maxim\Desktop\IntroductionSummer2015\Lesson02\Debug\DataTypes.exe
+     1>Построение проекта "C:\Users\Maxim\Desktop\IntroductionSummer2015\Lesson02\DataTypes\DataTypes.vcxproj" завершено (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:04.51
