@@ -1,0 +1,23 @@
+﻿Сборка начата 05.08.2015 23:37:34.
+     1>Проект "C:\Users\max\Cloud@Mail.Ru\Hillel\IntruductionSummer2015\Lesson03\HomeWork03\HomeWork03.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\..\..\Cloud@Mail.Ru\Hillel\IntruductionSummer2015\Lesson03\HomeWork03\hw03.cpp"
+         hw03.cpp
+     1>c:\users\max\cloud@mail.ru\hillel\intruductionsummer2015\lesson03\homework03\hw03.cpp(8): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\max\cloud@mail.ru\hillel\intruductionsummer2015\lesson03\homework03\hw03.cpp(46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\max\cloud@mail.ru\hillel\intruductionsummer2015\lesson03\homework03\hw03.cpp(50): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\max\cloud@mail.ru\hillel\intruductionsummer2015\lesson03\homework03\hw03.cpp(54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\max\cloud@mail.ru\hillel\intruductionsummer2015\lesson03\homework03\hw03.cpp(60): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\max\cloud@mail.ru\hillel\intruductionsummer2015\lesson03\homework03\hw03.cpp(64): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\max\cloud@mail.ru\hillel\intruductionsummer2015\lesson03\homework03\hw03.cpp(68): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\max\cloud@mail.ru\hillel\intruductionsummer2015\lesson03\homework03\hw03.cpp(74): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\max\cloud@mail.ru\hillel\intruductionsummer2015\lesson03\homework03\hw03.cpp(78): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\max\cloud@mail.ru\hillel\intruductionsummer2015\lesson03\homework03\hw03.cpp(82): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\max\Cloud@Mail.Ru\Hillel\IntruductionSummer2015\Lesson03\Debug\HomeWork03.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\max\Cloud@Mail.Ru\Hillel\IntruductionSummer2015\Lesson03\Debug\HomeWork03.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\max\Cloud@Mail.Ru\Hillel\IntruductionSummer2015\Lesson03\Debug\HomeWork03.lib" /MACHINE:X86 Debug\hw03.obj
+         HomeWork03.vcxproj -> C:\Users\max\Cloud@Mail.Ru\Hillel\IntruductionSummer2015\Lesson03\Debug\HomeWork03.exe
+     1>Сборка проекта "C:\Users\max\Cloud@Mail.Ru\Hillel\IntruductionSummer2015\Lesson03\HomeWork03\HomeWork03.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.28

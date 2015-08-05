@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{D7310A3D-43BD-445D-A41F-9371BE5858C3}</ProjectGuid>
-    <RootNamespace>Coditions</RootNamespace>
+    <ProjectGuid>{A7D60B92-83C5-44A6-A09F-E3FB1A4AD6B5}</ProjectGuid>
+    <RootNamespace>HomeWork03</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -64,10 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="hw03.txt" />
+    <ClCompile Include="..\..\..\..\..\Cloud%40Mail.Ru\Hillel\IntruductionSummer2015\Lesson03\HomeWork03\hw03.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
