@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		hw05.txt = hw05.txt
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HomeWork05", "HomeWork05\HomeWork05.vcxproj", "{36F72828-1CE8-4048-B8AE-05694B190587}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -26,6 +28,10 @@ Global
 		{C9DA455D-0089-464C-B6C6-67D3EDE69CB2}.Debug|Win32.Build.0 = Debug|Win32
 		{C9DA455D-0089-464C-B6C6-67D3EDE69CB2}.Release|Win32.ActiveCfg = Release|Win32
 		{C9DA455D-0089-464C-B6C6-67D3EDE69CB2}.Release|Win32.Build.0 = Release|Win32
+		{36F72828-1CE8-4048-B8AE-05694B190587}.Debug|Win32.ActiveCfg = Debug|Win32
+		{36F72828-1CE8-4048-B8AE-05694B190587}.Debug|Win32.Build.0 = Debug|Win32
+		{36F72828-1CE8-4048-B8AE-05694B190587}.Release|Win32.ActiveCfg = Release|Win32
+		{36F72828-1CE8-4048-B8AE-05694B190587}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
