@@ -8,6 +8,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		hw08.txt = hw08.txt
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HomeWork08", "HomeWork08\HomeWork08.vcxproj", "{22AE3FEB-B512-43E1-A82F-982BFBEC2FDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -18,6 +20,10 @@ Global
 		{B154E424-BC95-495A-B459-531902E0E9C1}.Debug|Win32.Build.0 = Debug|Win32
 		{B154E424-BC95-495A-B459-531902E0E9C1}.Release|Win32.ActiveCfg = Release|Win32
 		{B154E424-BC95-495A-B459-531902E0E9C1}.Release|Win32.Build.0 = Release|Win32
+		{22AE3FEB-B512-43E1-A82F-982BFBEC2FDC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22AE3FEB-B512-43E1-A82F-982BFBEC2FDC}.Debug|Win32.Build.0 = Debug|Win32
+		{22AE3FEB-B512-43E1-A82F-982BFBEC2FDC}.Release|Win32.ActiveCfg = Release|Win32
+		{22AE3FEB-B512-43E1-A82F-982BFBEC2FDC}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

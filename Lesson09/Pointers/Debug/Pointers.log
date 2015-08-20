@@ -1,0 +1,13 @@
+﻿Сборка начата 21.08.2015 0:41:34.
+     1>Проект "C:\Users\Maxim\Desktop\Introduction2015New\Lesson09\Pointers\Pointers.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Maxim\Desktop\Introduction2015New\Lesson09\Debug\Pointers.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Maxim\Desktop\Introduction2015New\Lesson09\Debug\Pointers.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Maxim\Desktop\Introduction2015New\Lesson09\Debug\Pointers.lib" /MACHINE:X86 Debug\main.obj
+         Pointers.vcxproj -> C:\Users\Maxim\Desktop\Introduction2015New\Lesson09\Debug\Pointers.exe
+     1>Построение проекта "C:\Users\Maxim\Desktop\Introduction2015New\Lesson09\Pointers\Pointers.vcxproj" завершено (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:18.81
