@@ -4,6 +4,9 @@
 void swap_num(int *a, int *b)
 {
     // здесь будет ваша реализаци€ функции swap_num
+    int tmp = *a;
+    *a = *b;
+    *b = tmp;
 }
 
 /*
@@ -37,8 +40,8 @@ void task02()
 {
     int x, *p;
     x = 10;
-    p = x;
-    printf ("x: %d\n", p); // вывести значение перемнной x через указатель p
+    p = &x;
+    printf ("x: %d\n", *p); // вывести значение перемнной x через указатель p
     if(*p != 10)
     {
         fprintf(stderr, "Error: task #02 does not complete properly\n");
@@ -61,7 +64,13 @@ void task02()
     ≈сть ли кака€-либо закономерность?
 */
 void task03()
-{
+{   
+    const int n = 10;
+    int arr[n];
+    int *first = &arr[0],
+        *last = &arr[n];
+    int length = last - first;
+    printf("length: %d\n", length); // разница соответствует количеству элементов между этими указател€м
     
 }
 
