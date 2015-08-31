@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultyArray", "MultyArray\MultyArray.vcxproj", "{42FFB0D9-24A3-491D-8953-45650E500209}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HomeWork11", "HomeWork11\HomeWork11.vcxproj", "{A23D8F79-2F51-411E-96B0-087657A8CBD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42FFB0D9-24A3-491D-8953-45650E500209}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42FFB0D9-24A3-491D-8953-45650E500209}.Debug|Win32.Build.0 = Debug|Win32
+		{42FFB0D9-24A3-491D-8953-45650E500209}.Release|Win32.ActiveCfg = Release|Win32
+		{42FFB0D9-24A3-491D-8953-45650E500209}.Release|Win32.Build.0 = Release|Win32
+		{A23D8F79-2F51-411E-96B0-087657A8CBD3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A23D8F79-2F51-411E-96B0-087657A8CBD3}.Debug|Win32.Build.0 = Debug|Win32
+		{A23D8F79-2F51-411E-96B0-087657A8CBD3}.Release|Win32.ActiveCfg = Release|Win32
+		{A23D8F79-2F51-411E-96B0-087657A8CBD3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

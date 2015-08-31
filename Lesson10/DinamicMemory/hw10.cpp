@@ -8,6 +8,20 @@
 */
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
+#pragma warning(disable: 4996)
+
+/*
+    Вспомогательная функция вывода массива на экран
+*/
+void print_array(int arr[], int size)
+{
+    for(int i=0; i<size; i++)
+    {
+        printf("%d ", arr[i]);
+    }
+    printf("\n");
+}
 
 /*
     Задание 1.
@@ -21,6 +35,33 @@
 void task01()
 {
     // Ваше решение
+    printf("Type size of array: ");
+    int size;
+    scanf("%d", &size);
+    int *arr = (int *)malloc(sizeof(int)*size);
+    for(int i=0; i<size; i++)
+    {
+        printf("arr[%d] = ", i);
+        scanf("%d", &arr[i]);
+    }
+    print_array(arr, size);
+}
+
+void bubble_sort(int arr[], int size) 
+{ // ф-ция сортировки пузырьком
+    int tmp;
+    for(int i=0; i<size - 1; i++)	
+    {
+        for(int j=0; j<size - i - 1; j++) 
+        {
+            if(arr[j] > arr[j+1]) 
+            {
+                tmp = arr[j];
+                arr[j] = arr[j+1];
+                arr[j+1] = tmp;
+            }
+        }
+    }
 }
 
 /*
@@ -32,6 +73,18 @@ void task01()
 void task02()
 {
     // Ваше решение
+    const int n = 20;
+    int arr[n];
+    // заполнение массива случайными числами
+    
+    for(int i=0; i<n; i++)
+    {
+        arr[i] = rand() % 100 + 1;
+    }
+
+    // Сортируем
+    bubble_sort(arr, n);
+    print_array(arr, n);
 }
 
 /*
@@ -53,10 +106,35 @@ void task02()
 void task03()
 {
     // Ваше решение
+    const int n = 10;
+    int arr[n];
+    // заполнение массива случайными числами
+    
+    for(int i=0; i<n; i++)
+    {
+        arr[i] = rand() % 10 + 1;
+    }
+
+    int *dubl = (int *)calloc(n, sizeof(int));
+    for(int i=0; i<n; i++)
+    {
+        dubl[arr[i] - 1]++;
+    }
+    print_array(arr, n);
+    for(int i=0; i<n; i++)
+    {
+        if(dubl[i] > 1)
+        {
+            printf("Number %d repeat %d times\n", i + 1, dubl[i]);
+        }
+    }
+
+    free (dubl);
 }
 
 int main()
-{
+{    
+    srand(time(NULL));
     task01();
     task02();
     task03();

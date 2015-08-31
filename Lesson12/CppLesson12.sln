@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Struct", "Struct\Struct.vcxproj", "{E9F2DDB7-4B8D-4E5C-8EBD-327F75A64451}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HomeWork12", "HomeWork12\HomeWork12.vcxproj", "{B6727444-6CAB-44DE-AB71-53DC71FBDCCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9F2DDB7-4B8D-4E5C-8EBD-327F75A64451}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9F2DDB7-4B8D-4E5C-8EBD-327F75A64451}.Debug|Win32.Build.0 = Debug|Win32
+		{E9F2DDB7-4B8D-4E5C-8EBD-327F75A64451}.Release|Win32.ActiveCfg = Release|Win32
+		{E9F2DDB7-4B8D-4E5C-8EBD-327F75A64451}.Release|Win32.Build.0 = Release|Win32
+		{B6727444-6CAB-44DE-AB71-53DC71FBDCCF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6727444-6CAB-44DE-AB71-53DC71FBDCCF}.Debug|Win32.Build.0 = Debug|Win32
+		{B6727444-6CAB-44DE-AB71-53DC71FBDCCF}.Release|Win32.ActiveCfg = Release|Win32
+		{B6727444-6CAB-44DE-AB71-53DC71FBDCCF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
