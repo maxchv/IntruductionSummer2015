@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntroOOP", "IntroOOP\IntroOOP.vcxproj", "{C5C23E94-B368-4416-AA59-21E0818D53B3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Classes", "Classes\Classes.vcxproj", "{FD2A4E32-CBB5-4B9C-8CE6-CCDE8BF17CB3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HomeWork13", "HomeWork13\HomeWork13.vcxproj", "{84AC0868-98A3-4792-ABE0-92961BCCC0B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C23E94-B368-4416-AA59-21E0818D53B3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C5C23E94-B368-4416-AA59-21E0818D53B3}.Debug|Win32.Build.0 = Debug|Win32
+		{C5C23E94-B368-4416-AA59-21E0818D53B3}.Release|Win32.ActiveCfg = Release|Win32
+		{C5C23E94-B368-4416-AA59-21E0818D53B3}.Release|Win32.Build.0 = Release|Win32
+		{FD2A4E32-CBB5-4B9C-8CE6-CCDE8BF17CB3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD2A4E32-CBB5-4B9C-8CE6-CCDE8BF17CB3}.Debug|Win32.Build.0 = Debug|Win32
+		{FD2A4E32-CBB5-4B9C-8CE6-CCDE8BF17CB3}.Release|Win32.ActiveCfg = Release|Win32
+		{FD2A4E32-CBB5-4B9C-8CE6-CCDE8BF17CB3}.Release|Win32.Build.0 = Release|Win32
+		{84AC0868-98A3-4792-ABE0-92961BCCC0B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{84AC0868-98A3-4792-ABE0-92961BCCC0B8}.Debug|Win32.Build.0 = Debug|Win32
+		{84AC0868-98A3-4792-ABE0-92961BCCC0B8}.Release|Win32.ActiveCfg = Release|Win32
+		{84AC0868-98A3-4792-ABE0-92961BCCC0B8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

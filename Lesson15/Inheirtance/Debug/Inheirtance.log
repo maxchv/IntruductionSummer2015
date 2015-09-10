@@ -1,0 +1,14 @@
+﻿Build started 09.09.2015 19:04:30.
+     1>Project "C:\Users\ВВП\Desktop\INTRODUCTION\CppLesson15\Inheirtance\Inheirtance.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Inheirtance.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Inheirtance.cpp
+         Inheirtance.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ВВП\Desktop\INTRODUCTION\CppLesson15\Debug\Inheirtance.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ВВП\Desktop\INTRODUCTION\CppLesson15\Debug\Inheirtance.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ВВП\Desktop\INTRODUCTION\CppLesson15\Debug\Inheirtance.lib" /MACHINE:X86 Debug\Inheirtance.obj
+         Debug\stdafx.obj
+         Inheirtance.vcxproj -> C:\Users\ВВП\Desktop\INTRODUCTION\CppLesson15\Debug\Inheirtance.exe
+     1>Done Building Project "C:\Users\ВВП\Desktop\INTRODUCTION\CppLesson15\Inheirtance\Inheirtance.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.86
